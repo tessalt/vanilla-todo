@@ -1,0 +1,25 @@
+.completed-true {
+  color: #999;
+}
+
+.completed-true label {
+  text-decoration: line-through;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+button.btn, input[type="submit"].btn {
+  vertical-align: top;
+}
+
+label {
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+input[type="checkbox"] {
+  vertical-align: top;
+}
