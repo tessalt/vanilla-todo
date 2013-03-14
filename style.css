@@ -23,3 +23,7 @@ label {
 input[type="checkbox"] {
   vertical-align: top;
 }
+
+.delete-link {
+  cursor: pointer;
+}
